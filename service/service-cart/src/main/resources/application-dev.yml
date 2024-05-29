@@ -1,0 +1,14 @@
+server:
+  port: 8881
+
+spring:
+  application:
+    name: service-cart
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+  data:
+    redis:
+      host: 192.168.200.131
+      port: 6379

@@ -1,0 +1,13 @@
+# Project exclude paths
+/client/cart-client/target/
+/client/order-client/target/
+/client/product-client/target/
+/commom/common-service/target/
+/commom/common-util/target/
+/gateway/target/
+/manager/target/
+/model/target/
+/service/service-cart/target/
+/service/service-order/target/
+/service/service-payment/target/
+/service/service-product/target/

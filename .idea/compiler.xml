@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-util" />
+        <module name="common-service" />
+        <module name="manager" />
+        <module name="cart-client" />
+        <module name="service-order" />
+        <module name="product-client" />
+        <module name="commom" />
+        <module name="service-product" />
+        <module name="service-cart" />
+        <module name="order-client" />
+        <module name="model" />
+        <module name="gateway" />
+        <module name="service-payment" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cart" target="17" />
+      <module name="cart-client" target="17" />
+      <module name="client" target="17" />
+      <module name="commom" target="17" />
+      <module name="common-service" target="17" />
+      <module name="common-util" target="17" />
+      <module name="farm-produce" target="17" />
+      <module name="gateway" target="17" />
+      <module name="manager" target="17" />
+      <module name="model" target="17" />
+      <module name="order" target="17" />
+      <module name="order-client" target="17" />
+      <module name="product" target="17" />
+      <module name="product-client" target="17" />
+      <module name="service" target="17" />
+      <module name="service-cart" target="17" />
+      <module name="service-order" target="17" />
+      <module name="service-payment" target="17" />
+      <module name="service-product" target="17" />
+      <module name="user-client" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cart" options="-parameters" />
+      <module name="cart-client" options="-parameters" />
+      <module name="client" options="" />
+      <module name="commom" options="-parameters" />
+      <module name="common-service" options="-parameters" />
+      <module name="common-util" options="-parameters" />
+      <module name="gateway" options="-parameters" />
+      <module name="manager" options="-parameters" />
+      <module name="model" options="-parameters" />
+      <module name="order" options="-parameters" />
+      <module name="order-client" options="-parameters" />
+      <module name="product" options="-parameters" />
+      <module name="product-client" options="-parameters" />
+      <module name="service" options="" />
+      <module name="service-cart" options="-parameters" />
+      <module name="service-order" options="-parameters" />
+      <module name="service-payment" options="-parameters" />
+      <module name="service-product" options="-parameters" />
+      <module name="user-client" options="-parameters" />
+    </option>
+  </component>
+</project>

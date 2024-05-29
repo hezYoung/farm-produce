@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cart-client.iml" filepath="$PROJECT_DIR$/cart-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client.iml" filepath="$PROJECT_DIR$/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commom/commom.iml" filepath="$PROJECT_DIR$/commom/commom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commom/common-service/common-service.iml" filepath="$PROJECT_DIR$/commom/common-service/common-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commom/common-util/common-util.iml" filepath="$PROJECT_DIR$/commom/common-util/common-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/farm-produce.iml" filepath="$PROJECT_DIR$/farm-produce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway.iml" filepath="$PROJECT_DIR$/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manager/manager.iml" filepath="$PROJECT_DIR$/manager/manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model/model.iml" filepath="$PROJECT_DIR$/model/model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-client.iml" filepath="$PROJECT_DIR$/order-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-client.iml" filepath="$PROJECT_DIR$/product-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service.iml" filepath="$PROJECT_DIR$/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-cart.iml" filepath="$PROJECT_DIR$/service-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-order.iml" filepath="$PROJECT_DIR$/service-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-payment.iml" filepath="$PROJECT_DIR$/service-payment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-product.iml" filepath="$PROJECT_DIR$/service-product.iml" />
+    </modules>
+  </component>
+</project>
